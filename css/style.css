@@ -1,0 +1,25 @@
+body {
+    font-size: 14px;
+    line-height: 26px;
+    color: #333333;
+    font-weight: normal;
+    font-family: "PTSans", "Arial" sans-serif;
+}
+
+.main-navigation a {
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 21px;
+    color: #000000;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 21px;
+    color: #000000;
+    font-weight: bold;
+}
